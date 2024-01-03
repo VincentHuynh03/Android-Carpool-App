@@ -33,11 +33,9 @@ Développer une application mobile "Pick Me Up" pour faciliter le covoiturage pa
 
 ## Équipes de développement
 
-### Sous-équipe 1
-*Équipier 1(Ralph Christian Gabriel)* et *Équipier 2(Maël Mane)* seront responsables de la partie de l'API qui concerne les trajets des conducteurs. Ils développeront tout le nécessaire pour que les conducteurs puissent s'inscrire, créer un profil et proposer des trajets. Ils permettront également aux passagers de consulter ces trajets et de faire des réservations.
 
-### Sous-équipe 2
-*Équipier 3(Jérémy Cormier)* et *Équipier 4(Vincent Huynh)* seront responsables de la gestion des profils des utilisateurs, de la connexion et de l'inscription. Ils s'assureront également de la mise en place du système d'évaluation des utilisateurs.
+*Équipier 1(Ralph Christian Gabriel)* ,*Équipier 2(Maël Mane)* *Équipier 3(Jérémy Cormier)* et *Équipier 4(Vincent Huynh)* 
+
 
 ## Licence
 <!-- TODO -->
