@@ -7,7 +7,7 @@ La congestion routière et les émissions de CO2 sont des problèmes majeurs dan
 
 AllezHop API:
 
-[GitHub Repository for the API]([https://github.com/your-api-repo](https://github.com/VincentHuynh03/API-Carpool-AllezHop))
+[GitHub Repository for the API](https://github.com/VincentHuynh03/API-Carpool-AllezHop)
 
 ## Description du projet de développement
 
